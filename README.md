@@ -14,7 +14,14 @@ The system uses two push buttons as inputs (`COOL`, `AC_READY`) and controls bot
 
 ## 🖥️ Board Overview  
 ![FPGA Board](images/board.jpg)  
-*(Upload your board photo here — this placeholder image file name should match what you put in the `/images/` folder)*  
+
+
+---
+
+
+## 📄 Reference Datasheet  
+For detailed pin mapping and board specifications, please refer to the official documentation:  
+🔗 [A7-Lite Reference Manual (MicroPhase)](https://fpga-docs.microphase.cn/en/latest/DEV_BOARD/A7-LITE/A7-Lite_Reference_Manual.html)
 
 ---
 
@@ -35,8 +42,8 @@ The system uses two push buttons as inputs (`COOL`, `AC_READY`) and controls bot
 ---
 
 ## 🔁 FSM State Diagram  
-![FSM State Diagram](images/state_diagram.png)  
-*(Upload your FSM diagram into `/images/` and rename it as `state_diagram.png`)*  
+![FSM State Diagram](images/state_diagram.JPG)  
+ 
 
 ---
 
