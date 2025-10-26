@@ -13,7 +13,7 @@ The system uses two push buttons as inputs (`COOL`, `AC_READY`) and controls bot
 ---
 
 ## 🖥️ Board Overview  
-![FPGA Board](images/board.png)  
+![FPGA Board](images/board.jpg)  
 *(Upload your board photo here — this placeholder image file name should match what you put in the `/images/` folder)*  
 
 ---
