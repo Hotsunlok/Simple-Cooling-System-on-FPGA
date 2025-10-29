@@ -26,7 +26,7 @@ Below are the configuration screenshots of the Clocking Wizard setup:
 ![Clock Input](../images/clockingwizard_input.jpg)
 
 ### 🧩 Clocking Wizard Output
-![Clock Output](../images/clockingwizardoutput.jpg)
+![Clock Output](../images/clockinghwizardoutput.jpg)
 
 ---
 
